@@ -1,0 +1,19 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1373043955000 3383 de53ced3f5f9b107d22b877becdd5e876618e17a /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/MainActivity.class
+1373043955000 3365 a35186c38aadfac4368d59a064c7fd95304487db /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/MainActivityArrayList.class
+1373043955000 431 29f5179cf134b894c0044de534629e8e4931859f /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/R$id.class
+1370823024000 152081 d6e6d14301616c866b7eff210ece6579299417ec /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/libs/ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar
+1373043955000 380 6c57144cd09f8c940d02b6decd4de0189d7459c4 /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/R$drawable.class
+1373043955000 361 ec56f49394e0714ba3d31533d7abd423c69a354e /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/R$menu.class
+1373043955000 313 5df1e78b6651e1ff2f7aa3727527c359547ffa39 /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/R$attr.class
+1371179889000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/libs/android-support-v4.jar
+1373043955000 434 adb32d10950fb52859e911db70055537f6127cba /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/R$dimen.class
+1373043955000 2552 4373afebd5c3add52af9931dfef8e4bcd297a7fc /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/UtilesWS.class
+1373043955000 327 3949a132639c25f56bf3ac92435ddd1b05296645 /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/BuildConfig.class
+1373043955000 445 30274e4f921e931e79f8ec35a214c2562bd1f901 /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/R$string.class
+1373043955000 2257 52c96dc792e4de203b79aad5dd61f0b2a7116d60 /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/Funcion.class
+1373043955000 404 07e874f84e2c9b36516ffb6ed415882053764bfc /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/R$style.class
+1373043955000 587 a09c3415a55ccf5322337e3969537ca142ff8dc8 /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/R.class
+1373043955000 376 f4539d3114403409ef164798fad001578c1bfe7e /Users/victordespinosavazquez/AndroidStudioProjects/WebServicesProject/WebServices/build/classes/debug/com/knock/R$layout.class

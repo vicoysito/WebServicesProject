@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="android-support-v4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebServices/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../KnockUtilesProject/KnockUtiles/libs/android-support-v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
